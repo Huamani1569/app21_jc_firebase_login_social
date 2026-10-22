@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127129687625",
+    "project_id": "app21-jc-firebase-login-cfbbd",
+    "storage_bucket": "app21-jc-firebase-login-cfbbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127129687625:android:17df2c97e401fcddf25198",
+        "android_client_info": {
+          "package_name": "com.example.app21_jc_firebase_login_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127129687625-79l2e063m4o4mqson7dgpiqos2pf749d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app21_jc_firebase_login_social",
+            "certificate_hash": "9e2d9cd763eb12aa9e50a27274847b264495a575"
+          }
+        },
+        {
+          "client_id": "127129687625-8dpbjt0nlaevvogu6oall2rka7rja828.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMgf7q66_B0F3Bt9vklOWMP31efJEkocM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127129687625-8dpbjt0nlaevvogu6oall2rka7rja828.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

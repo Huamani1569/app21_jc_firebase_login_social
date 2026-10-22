@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App21 Login Social</string>
+
+    <!-- Meta for Developers → tu app → Configuración → Básica -->
+    <string name="facebook_app_id">1234567890123456</string>
+    <!-- "fb" + el mismo App ID, sin espacios -->
+    <string name="fb_login_protocol_scheme">fb1234567890123456</string>
+    <!-- Configuración → Avanzada → Seguridad → Token de cliente -->
+    <string name="facebook_client_token">a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6</string>
+</resources>
