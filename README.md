@@ -15,6 +15,6 @@ Inicio de sesión con **correo y contraseña** (registro, verificación de corre
 ## Configuración
 - Firebase Authentication: Correo/contraseña, Google, Facebook y GitHub activados.
 - Huella **SHA-1** del certificado de depuración registrada en Firebase.
-- App de Meta for Developers (ID y token de cliente en `strings.xml`, key hash registrado).
+- Facebook: el código está implementado (`FacebookLogin.kt`, `AuthRepository.loginConFacebook`). Para activarlo se registra la app en Meta for Developers y se reemplazan `facebook_app_id`, `fb_login_protocol_scheme` y `facebook_client_token` en `strings.xml` (key hash de depuración: `ni2c12PrEqqeUKJydIR7JkSVpXU=`).
 - OAuth App de GitHub con la URL de devolución de Firebase.
 - `app/google-services.json` descargado después de activar Google.
